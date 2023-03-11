@@ -7,6 +7,8 @@ export function Tabla() {
     borderWidth: "1px",
     marginTop: "20px",
     fontFamily: 'Quicksand',
+    backgroundColor: "#e0e4ec",
+    borderRadius: "10px",
   };
 
   return (
