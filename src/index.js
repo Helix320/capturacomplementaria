@@ -9,5 +9,4 @@ root.render(
     <Greeting1/>
     <Greeting2/>
     </>
-    
 );
